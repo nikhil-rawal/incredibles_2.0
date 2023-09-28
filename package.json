@@ -1,0 +1,23 @@
+{
+  "name": "incredibles_2.0",
+  "version": "2.0.0",
+  "description": "Business Website 2.0 - Landing Page for Increibles Overseas Consultants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Incredibles",
+    "Business Website",
+    "Landing Page",
+    "Incredibles Overseas Consultants"
+  ],
+  "author": "Nikhil Rawal",
+  "license": "ISC",
+  "browserslist": [
+    "last 3 version"
+  ],
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
