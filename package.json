@@ -4,7 +4,8 @@
   "description": "Business Website 2.0 - Landing Page for Increibles Overseas Consultants",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
   },
   "keywords": [
     "Incredibles",
@@ -18,6 +19,11 @@
     "last 3 version"
   ],
   "dependencies": {
-    "parcel": "^2.9.3"
+    "parcel": "^2.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
   }
 }
